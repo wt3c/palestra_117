@@ -43,3 +43,10 @@
 - https://git-scm.com/book/en/v2
 - https://docs.python.org/3/
 - https://docs.djangoproject.com/en/5.1/
+
+Fabio Akita
+  - https://www.youtube.com/watch?v=O68y0yRZL1Y&t
+  - https://www.youtube.com/watch?v=UDrDg6uUOVs
+ 
+Henrique Bastos
+  - https://www.youtube.com/@hbnetworkoficial
